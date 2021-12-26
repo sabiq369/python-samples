@@ -1,0 +1,5 @@
+a = input("Enter anything ")
+print("You have enterd "+a)
+print("Length of what you have enterd is :"+str(len(a)))
+print("First three letters of what you have enterd are "+a[-5:-1])
+print(a.upper())
